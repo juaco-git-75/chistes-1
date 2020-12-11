@@ -14,3 +14,9 @@ Otro chiste de Joaquin:
 Chiste de Dani
 Qué son ocho bocabits? Un BocaByte
 >>>>>>> 23207568b7ae589e4487fc4771459037713b783f
+
+11-12-2020 Chiste de Joaquin en el repositorio forkeado de Asun
+
+Esta un señor con los ojos cerrados y le dice su amigo:
+-¿oye porque cierras los ojos?
+-El ordenador me dijo que cerrase las pestañas
